@@ -19,7 +19,7 @@
 const CONFIG = {
   SHEET_NAME: '',                        // 工作表名稱；留空 = 使用目前開啟的工作表
   HEADER_ROW: 1,                         // 標題列
-  SUPERVISOR_EMAIL: 'supervisor@kcislk.ntpc.edu.tw', // ← 請改成主管信箱（BCC）
+  SUPERVISOR_EMAIL: 'siahuang@kcislk.ntpc.edu.tw',   // 主管信箱（BCC）
   PARENT_EMAIL_HEADER: 'Parent Email',   // ← 家長信箱欄位的標題（可用逗號分隔多個信箱）
   STATUS_HEADER: 'Email Status',         // 寄送紀錄欄；若不存在會自動新增在最右邊
 
